@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+.body{
+    background: url(./images/20260305_163004.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 60vh;
+}
